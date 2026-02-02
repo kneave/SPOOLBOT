@@ -1,15 +1,15 @@
 # SPOOLBOT
 Prusa 2KG Spool Robot
 
-Source code for SpoolBot based on the Prusa 2KG Spool. Running on a DF-Robot Romeo Mini ESP32.
-
-![SpoolBot](https://github.com/mantisrobot/spoolbot/blob/main/Spool_Bot_V1.2b.jpg?raw=true "SpoolBot")
+Source Code, Wiring Diagram & BOM for SpoolBot.
+Arduino Code is Running on a DF-Robot Romeo Mini ESP32.
 
 Check out the origonal build video here:
 [![Watch the video](https://github.com/mantisrobot/spoolbot/blob/main/SpoolBot_V1a.jpg)](https://youtu.be/OPCm9aoIxUs)
 
 STL & CAD Files available at Printables.com
 https://www.printables.com/@mantisrobot_2496648
+![SpoolBot](https://github.com/mantisrobot/spoolbot/blob/main/Spool_Bot_V1.2b.jpg?raw=true "SpoolBot")
 
 SpoolBot Scematic
 ![schematic](https://github.com/mantisrobot/SPOOLBOT/blob/main/Spooly_bb.jpg?raw=true "Schematic")
