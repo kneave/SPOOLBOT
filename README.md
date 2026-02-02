@@ -11,5 +11,8 @@ Check out the origonal build video here:
 STL & CAD Files available at Printables.com
 https://www.printables.com/@mantisrobot_2496648
 
+SpoolBot Scematic
+![schematic](https://github.com/mantisrobot/SPOOLBOT/blob/main/Spooly_bb.jpg?raw=true "Schematic")
+
 ## Parts List
-Reference links provided in the [Parts List](./Denton%20Saber%20Parts.xls)
+Reference links provided in the [Parts List](./Prusa%20Spool%20Bot%20BOM.xlsx)
