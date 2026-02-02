@@ -12,4 +12,4 @@ STL & CAD Files available at Printables.com
 https://www.printables.com/@mantisrobot_2496648
 
 ## Parts List
-Reference links provided in the [Parts List](./Denton%20Saber%20Parts.xls)
+Reference links provided in the [Parts List](./Prusa%20Spool%20Bot%20BOM.xlsx)
