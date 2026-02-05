@@ -1,7 +1,9 @@
 // *****************************************************
-//  Prusa Spool Bot (Spooly) by Matt Denton
-//  Written for DFRobot Romeo Mini ESP32
-//  Requires Adafruit BNO085 IMU
+//  Prusa Spool Bot (Spooly) by Matt Denton 05/02/2026
+//  Written for DFRobot Romeo Mini ESP32.
+//  Used "ESP32C3 Dev Module" as the device selection.
+//  Enable "USB CDC On Boot" for USB debug messages.
+//  Requires Adafruit BNO085 IMU.
 //
 //  Removeable / Magenetc side is the left, Fixed side is right
 //  
