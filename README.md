@@ -5,7 +5,7 @@ Source Code, Wiring Diagram & BOM for SpoolBot.
 Arduino Code is Running on a DF-Robot Romeo Mini ESP32.
 
 Check out the origonal build video here:
-[![Watch the video](https://github.com/mantisrobot/spoolbot/blob/main/SpoolBot_V1a.jpg)](https://youtu.be/OPCm9aoIxUs)
+[![Watch the video](https://github.com/mantisrobot/spoolbot/blob/main/SpoolBot_V1a.jpg)](https://youtu.be/6ZLJA1YpoMs)
 
 STL & CAD Files available at Printables.com
 https://www.printables.com/@mantisrobot_2496648
